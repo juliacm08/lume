@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lume</string>
+        <string name="logo_desc">Descrição do logo</string>
+        <string name="bem_vindo">Bem-vindo!</string>
+        <string name="nome_usuario">Nome de usuário</string>
+        <string name="hint_email">Digite seu e-mail</string>
+        <string name="senha">Senha</string>
+        <string name="confirmar_senha">Confirme a senha</string>
+        <string name="entrar">Entrar</string>
+        <string name="criar_conta">Criar conta</string>
+    </resources>
