@@ -13,18 +13,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lume">
 
+
         <activity
-            android:name="Activity.Register"
+            android:name=".activity.Register"
             android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
 
-        <activity
-            android:name="Activity.Login"
-            android:exported="false" />
+        </activity>
 
     </application>
 
